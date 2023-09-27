@@ -1,0 +1,9 @@
+name: string_reader
+description: The `String Reader` is an implementation of random access string readers for reading data from various data sources in various encodings.
+version: 0.1.0
+homepage: https://github.com/mezoni/string_reader
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.24.4
